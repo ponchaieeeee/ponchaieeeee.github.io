@@ -1,0 +1,42 @@
+#sample {
+  width: 400px;
+  height: 220px;
+  margin: 10px auto;
+  background: #000;
+  color: #fff;
+  text-align: center;
+  font-size: 120px;
+  padding: 50px;
+  font-family: serif;
+}
+
+#sampleButton {
+    width: 400px;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+.text-flat-border {
+  width: 280px;
+  padding: 0.3em 1em;
+  text-decoration: none;
+  color: #67c5ff;
+  border: solid 2px #67c5ff;
+  border-radius: 3px;
+}
+
+.btn-flat-border {
+  width: 80px;
+  padding: 0.3em 1em;
+  text-decoration: none;
+  color: #67c5ff;
+  border: solid 2px #67c5ff;
+  border-radius: 3px;
+  transition: .4s;
+}
+
+.btn-flat-border:hover {
+  background: #67c5ff;
+  color: white;
+}
